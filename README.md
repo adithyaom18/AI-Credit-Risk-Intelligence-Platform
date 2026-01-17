@@ -1,6 +1,6 @@
 ## 💳 AI Credit Risk Intelligence Platform (Loan Approval System)
 
-[![Live](https://img.shields.io/badge/Live-Demo-brightgreen)](#)
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ai-credit-risk-intelligence-platform.onrender.com)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey?logo=flask)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
@@ -117,7 +117,6 @@ This approach aligns with **banking and regulatory expectations**.
 
 • Instantly fills realistic sample data  
 • User manually submits the form  
-• Perfect for **viva, demos, and recruiters**
 
 ---
 
@@ -217,3 +216,5 @@ It should not be used directly for real financial or lending decisions without p
 🔗 LinkedIn: https://www.linkedin.com/in/k-adithya-om
 
 ### 🌐 Live Demo
+
+🔗 : https://ai-credit-risk-intelligence-platform.onrender.com
