@@ -212,7 +212,7 @@ It should not be used directly for real financial or lending decisions without p
 
 📧 Email: kadithyaom@gmail.com
 
-🔗 GitHub: https://github.com/adithyaom18
+🔗 GitHub: https://github.com/adithyaom18/AI-Credit-Risk-Intelligence-Platform.git
 
 🔗 LinkedIn: https://www.linkedin.com/in/k-adithya-om
 
