@@ -1,0 +1,75 @@
+html {
+    color-scheme: dark;
+}
+
+body {
+    background: radial-gradient(circle at top, #0f172a, #020617);
+    font-family: "Inter", system-ui, sans-serif;
+    color: #ffffff;
+}
+
+/* Navbar */
+.fintech-navbar {
+    background: #020617;
+    border-bottom: 1px solid #1e293b;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+/* Card */
+.fintech-card {
+    background: #0b1020;
+    border-radius: 20px;
+    border: 1px solid #1e293b;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.6);
+}
+
+/* Labels */
+.form-label {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+/* Inputs & selects */
+.form-control,
+.form-select {
+    background-color: #020617 !important;
+    color: #ffffff !important;
+    border: 1px solid #1e293b;
+    border-radius: 14px;
+}
+
+/* Dropdown options */
+.form-select option {
+    background-color: #020617;
+    color: #ffffff;
+}
+
+/* Focus */
+.form-control:focus,
+.form-select:focus {
+    border-color: #38bdf8;
+    box-shadow: 0 0 0 3px rgba(56,189,248,0.3);
+}
+
+/* Button */
+.fintech-btn {
+    background: linear-gradient(135deg, #38bdf8, #2563eb);
+    border: none;
+    border-radius: 16px;
+    padding: 14px;
+    font-weight: 700;
+    color: #020617;
+}
+
+/* Footer */
+.fintech-footer {
+    margin-top: 40px;
+    padding: 15px;
+    text-align: center;
+    color: #cbd5f5;
+    font-size: 0.85rem;
+}
